@@ -36,6 +36,6 @@ You do not need to book an enterprise sales call or enter a credit card to evalu
 ## 📬 Global Enterprise Support & Technical Engineering Inquiries
 For custom deployments, high-volume automated API access keys, or specific localized compliance framework mapping requests, contact the core engineering group directly:
 * **🌐 Core Application Hub:** [isoflowai.in](https://isoflowai.in/)
-* **📧 Dedicated Technical Contact:** For immediate engineering escalations or business requests, open an issue directly in this repository tracker or route your inquiry directly to: **rohanadat.work@gmail.com**
+* **📧 Dedicated Technical Contact:** For immediate engineering escalations or business requests, open an issue directly in this repository tracker or route your inquiry directly to: **rohan@isoflowai.in**
 ---
 *Disclaimer: Vanta, Drata, and Secureframe are registered trademarks of their respective owners. This repository serves as an objective architectural comparison matrix and a distribution directory for stateless compliance mapping alternative software tools.*
